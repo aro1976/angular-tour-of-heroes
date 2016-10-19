@@ -1,5 +1,6 @@
-# angular-quickstart
-Quickstart Angular2 Application
+# angular-tour-of-heroes
+
+MVC navigational application
 
 npm install
 npm run typings install
