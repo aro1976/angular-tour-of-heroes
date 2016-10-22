@@ -1,9 +1,5 @@
 typings
 node_modules
 .idea/
-app/app.component.js
-app/app.component.js.map
-app/app.module.js
-app/app.module.js.map
-app/main.js
-app/main.js.map
+app/*.js
+app/*.js.map
